@@ -1,7 +1,7 @@
 # Tocar-El-Dom
 <br>
 <br>
-En este proyecto se desarolló una página web con el objetivo de aprender a tocar instumentos y practicar el conocimiento.
+En este proyecto, se desarolló una página web con el objetivo de aprender a tocar instumentos y practicar.
 Diseñamos la página para el isntrumento de piano a través de un teclado digital.
 <br>
 Para organizarnos, utlizamos Trello, donde establecimos las tareas a trabajar cada uno. Comenzamos por el diseño del mockup en Figma, 
